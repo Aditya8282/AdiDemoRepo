@@ -1,0 +1,9 @@
+{
+	"name": "ADFWafaDemogithubpractise",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c845d147-3164-421e-8f4d-381afc763b01",
+		"tenantId": "88c75e6c-e394-421e-a2d0-6b433a3700d8"
+	}
+}
